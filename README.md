@@ -1,2 +1,2 @@
 # KMNIST-Classifier
-Kannada-MNIST Challenge: Code for training models on handwritten Kannada digits. Achieve high accuracy and explore insights.
+Welcome to the Kannada-MNIST Challenge repository! This project revolves around the task of recognizing handwritten digits in the Kannada script. Leveraging the MNIST dataset, the repository contains code for training models, exploring data insights, and achieving high accuracy in digit classification. Dive into the world of Kannada script digit recognition and explore the machine learning journey presented in this competition. Join us in advancing the field of handwritten character recognition through this exciting challenge!
